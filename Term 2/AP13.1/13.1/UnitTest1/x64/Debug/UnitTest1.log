@@ -1,0 +1,10 @@
+﻿     Creating library F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP13.1\13.1\x64\Debug\UnitTest1.lib and object F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP13.1\13.1\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "void __cdecl nsSum::sum(void)" (?sum@nsSum@@YAXXZ) referenced in function "public: void __cdecl UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QEAAXXZ)
+UnitTest1.obj : error LNK2001: unresolved external symbol "int nsVar::n" (?n@nsVar@@3HA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::x" (?x@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::x_p" (?x_p@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::x_k" (?x_k@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::dx" (?dx@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::e" (?e@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::s" (?s@nsVar@@3NA)
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP13.1\13.1\x64\Debug\UnitTest1.dll : fatal error LNK1120: 8 unresolved externals

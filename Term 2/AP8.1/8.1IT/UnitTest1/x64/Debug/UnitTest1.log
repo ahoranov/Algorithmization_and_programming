@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP8.1\8.1IT\8.1IT\8.1IT.cpp(58,36): warning C4244: 'argument': conversion from 'double' to 'rsize_t', possible loss of data
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP8.1\8.1IT\8.1IT\8.1IT.cpp(72,48): warning C4244: 'argument': conversion from 'double' to 'rsize_t', possible loss of data
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP8.1\8.1IT\8.1IT\8.1IT.cpp(72,28): warning C4244: 'argument': conversion from 'double' to 'rsize_t', possible loss of data
+  UnitTest1.vcxproj -> F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP8.1\8.1IT\x64\Debug\UnitTest1.dll

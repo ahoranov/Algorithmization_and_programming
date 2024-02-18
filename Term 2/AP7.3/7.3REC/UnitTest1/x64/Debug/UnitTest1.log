@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP7.3\7.3REC\7.3REC\7.3REC.cpp(140): warning C4715: 'sum': not all control paths return a value
+     Creating library F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP7.3\7.3REC\x64\Debug\UnitTest1.lib and object F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP7.3\7.3REC\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\AP7.3\7.3REC\x64\Debug\UnitTest1.dll

@@ -1,0 +1,4 @@
+﻿  11.3.cpp
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\2.До здачі\AP11.3\11.3\11.3\11.3.cpp(228,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\2.До здачі\AP11.3\11.3\11.3\11.3.cpp(270,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  11.3.vcxproj -> F:\DDPU\1 year\2 semester\Алгоритмізація та програмування\2.До здачі\AP11.3\11.3\x64\Debug\11.3.exe
